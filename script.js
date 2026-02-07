@@ -193,5 +193,5 @@ function hideWeatherInfo() {
 
 // Initialize with default city
 window.addEventListener('load', () => {
-    getWeather('London'); // Default city
+    getWeather('India'); // Default city
 });
