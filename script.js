@@ -1,5 +1,5 @@
 // Weather API configuration
-const API_KEY = 'e23673413a242dbbe4b8eb7832aaa30c'; // Updated with your OpenWeatherMap API key
+const API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // Updated with your OpenWeatherMap API key
 const API_URL = 'https://api.openweathermap.org/data/2.5';
 const FORECAST_URL = 'https://api.openweathermap.org/data/2.5/forecast';
 
